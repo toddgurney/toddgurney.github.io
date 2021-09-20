@@ -11,20 +11,21 @@ Versatile professional with the ability to manage in a fast-paced, dynamic envir
 <h1>PROFESSIONAL EXPERIENCE</h1>
 <table>
 <tr>
-<th>2019-Current 	MassDOT, Registry of Motor Vehicles, Boston, MA.
+<th>2019-Current 	MassDOT, <br>Registry of Motor Vehicles, Boston, MA.</br>
 		RMV Operations Quality Assurance Officer</th>
 <td>* Oversees technical aspects of the business services within the Operations Department.</td>
 <td>* Serve as business lead for Eservices Design and manage computer applications in collaboration with business users as MassDOT Information Technology Department.</td>
 <td>* Serve as a liaison, in collaboration with the Chief Operating Officer and/or the Chief Administrative Officer, with other state agencies in the design, implementation, and/or upgrading of interagency computer application and programs.</td>
 * Serve as the technical conduit between the RMV and program vendor partners.
 </table>
+<tr>
 
-2016-2018	MassDOT, Registry of Motor Vehicles, Boston, MA.
-		ATLAS Project-Issuance Team
+<th>2016-2018	MassDOT, Registry of Motor Vehicles, Boston, MA.</th>
+		<td>ATLAS Project-Issuance Team</td>
 * Serve as subject matter expert on Issuance Team
 * Serve as business lead for Eservices team on development of business portal for Professional Driving School providers
 * Participate in organization change management process to streamline business processes
-*
+*&nbsp;&nbsp;
 
 2009-Present	MassDOT, Registry of Motor Vehicles Division, Boston, MA.
 		Program Manager, Driver Education and Training-Driver Licensing Section
