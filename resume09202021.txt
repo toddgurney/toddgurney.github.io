@@ -8,7 +8,7 @@
 Versatile professional with the ability to manage in a fast-paced, dynamic environment, capable of working effectively with detailed and confidential assignments. Fifteen years ‘experience within the Registry of Motor Vehicles Operations Division.</h1>
 
 
-<h1>PROFESSIONAL EXPERIENCE</h1>
+<h2>PROFESSIONAL EXPERIENCE</h2>
 <table>
 <tr>
 <th>2019-Current 	MassDOT, <br>Registry of Motor Vehicles, Boston, MA.</br>
@@ -22,13 +22,13 @@ Versatile professional with the ability to manage in a fast-paced, dynamic envir
 
 <th>2016-2018	MassDOT, Registry of Motor Vehicles, Boston, MA.</th>
 		<td>ATLAS Project-Issuance Team</td>
-* Serve as subject matter expert on Issuance Team
-* Serve as business lead for Eservices team on development of business portal for Professional Driving School providers
+<td>* Serve as subject matter expert on Issuance Team</td>
+<td>* Serve as business lead for Eservices team on development of business portal for Professional Driving School providers</td>
 * Participate in organization change management process to streamline business processes
 *&nbsp;&nbsp;
 
-2009-Present	MassDOT, Registry of Motor Vehicles Division, Boston, MA.
-		Program Manager, Driver Education and Training-Driver Licensing Section
+<th>2009-Present	MassDOT, Registry of Motor Vehicles Division, Boston, MA.</th>
+		<td>Program Manager, Driver Education and Training-Driver Licensing Section</td>
 * Develop, implement and updates RMV policy based on legislative, regulatory and agency requirements
 * Evaluate the effectiveness of driver education throughout Massachusetts through establishment of communication channels with RMV branches, agency staff, external stakeholders, and users.
 * Participate in agency wide business and system projects to ensure driver education needs are included.
@@ -40,16 +40,16 @@ Versatile professional with the ability to manage in a fast-paced, dynamic envir
 * Serve as board member of the New England Traffic and Safety Education Association for Massachusetts.
 
 
-2007-2009	Registry of Motor Vehicles, Boston, MA.
-		Program Coordinator, Mass Inspection Maintenance Program, Vehicle Safety and Compliance Services
-* Assist with the development, design, and implementation of all vehicle inspection and school bus program.
-* Assist the Project Manager with the operation of the Mass Vehicle Check Program and other programs in the department.
-* Assist with network contractor negotiations, including analysis and planning for future safety and emissions testing program.
-* Coordinate various program related tasks with other agencies and law enforcement.
-* Monitor financial reconciliations with contractor and coordinate discrepancy resolution with Executive Office of Transportation
-* Assist field investigators with suspected/alleged violations of the law, rules and regulations, polices and procedures.
-* Monitor integrity of inspection records on the RMV Automated License and Registration System (ALARS) and contractor Vehicle Inspection Database.
-* Represent RMV in all adjudicatory hearings relating to VSCS  at the Board  of Appeals
+<th>2007-2009	Registry of Motor Vehicles, Boston, MA.</th>
+	<td>Program Coordinator, Mass Inspection Maintenance Program, Vehicle Safety and Compliance Services</td>
+<td>* Assist with the development, design, and implementation of all vehicle inspection and school bus program.</td>
+<td>* Assist the Project Manager with the operation of the Mass Vehicle Check Program and other programs in the department.</td>
+<td>* Assist with network contractor negotiations, including analysis and planning for future safety and emissions testing program.</td>
+<td>* Coordinate various program related tasks with other agencies and law enforcement.</td>
+<td>* Monitor financial reconciliations with contractor and coordinate discrepancy resolution with Executive Office of Transportation</td>
+<td>* Assist field investigators with suspected/alleged violations of the law, rules and regulations, polices and procedures.</td>
+<td>* Monitor integrity of inspection records on the RMV Automated License and Registration System (ALARS) and contractor Vehicle Inspection Database.</td>
+<td>* Represent RMV in all adjudicatory hearings relating to VSCS  at the Board  of Appeals</td>
 
 
 
