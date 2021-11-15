@@ -46,6 +46,9 @@ color:chocolate;
 font-size:150%;
 border:2px solid black;
 }
+table, th, td {
+  border:1px solid black;
+}
 </head>
 
 <h2>Music Survey</h2>
@@ -59,8 +62,8 @@ border:2px solid black;
          <label for="email">Email:</label><br>
   <input type="email" id="email" name="email" value=""><br><br>
           <br>
-          
-<select name="Select Your Favorite Type of Music" id="Music" form="Favorite Music">
+<table>         
+<td><select name="Select Your Favorite Type of Music" id="Music" form="Favorite Music">
   <form action="/action_page.php"> <br>
 
   <input type="checkbox" id="type1" name="type1" value="Pop">
