@@ -46,9 +46,7 @@ color:chocolate;
 font-size:150%;
 border:2px solid black;
 }
-table, th, td {
-  border:1px solid black;
-}
+
 </head>
 
 <h2>Music Survey</h2>
@@ -62,8 +60,10 @@ table, th, td {
          <label for="email">Email:</label><br>
   <input type="email" id="email" name="email" value=""><br><br>
           <br>
-<table>         
-<td><select name="Select Your Favorite Type of Music" id="Music" form="Favorite Music">
+<table>
+table {
+  border: 1px solid black;         
+<select name="Select Your Favorite Type of Music" id="Music" form="Favorite Music">
   <form action="/action_page.php"> <br>
 
   <input type="checkbox" id="type1" name="type1" value="Pop">
@@ -78,19 +78,20 @@ table, th, td {
   <label for="type5"> Rap</label><br>
 <input type="checkbox" id="type6" name="type6" value="Other">
   <label for="type2"> Other</label><br>
-
+</table>
 
 <h3>Select the Location You Listen to Music:</h3>
-
+<table>
 <select name="place" id="place" form="Place">
   <option value="home">Home</option>
   <option value="school">School/option>
   <option value="work">Work</option>
-<div>
+</table>
+
 <label> What Role Does Music Play in Your Life</label><br>
  <textarea name="message" rows="10" cols="30">.</textarea>
-  <br> </div>
- <div> 
+  <br> 
+
 <input type="submit" value="Send Survey"><br>
     </form>
 </div>
