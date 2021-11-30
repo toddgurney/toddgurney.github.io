@@ -1,0 +1,149 @@
+  
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Your Page Title</title>
+    <meta charset="UTF-8">
+   <meta name="description" content="Free Web tutorials">
+   <meta name="keywords" content="your, relevant, keywords, in, a, comma, separated, list">
+   <meta name="author" content="Your Name">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <script>
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function setCookie(cname,cvalue,exdays) {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays 1*24*60*60*1000));
+  let expires = "expires=" + d.toGMTString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+  let name = cname + "=";
+  let decodedCookie = decodeURIComponent(document.cookie);
+  let ca = decodedCookie.split(';');
+  for(let i = 0; i < ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+function checkCookie() {
+  let user = getCookie("username");
+  if (user != "") {
+    alert("Welcome again " + user);
+  } else {
+     user = prompt("Please enter your name:","");
+     if (user != "" && user != null) {
+       setCookie("username", user, 30);
+     }
+  }
+
+</script>
+</head>
+
+<body onload="checkCookie()"></body>
+
+</html>
+</script>
+</head>
+body 
+{
+background-color:cadetblue;
+}
+#content{
+width:90%;
+margin:auto;
+text-align:center;
+}
+
+form {
+font-size:1.5em;
+margin-left:5%;
+padding-top:5%;
+background-color: cornsilk;
+border:2px dotted #000;
+}
+input {
+margin-bottom:2%;
+font-size: 1em;
+}
+input#submit {
+border:4px solid green;
+border-radius: 50px 50px;
+text-align: center;
+background-color:green;
+color:white;
+font-weight:bold;
+padding: 20px;
+}
+
+#submit:hover {
+background-color:cornsilk;
+color:chocolate;
+font-size:150%;
+border:2px solid black;
+}
+
+</head>
+
+<h2>Music Survey</h2>
+
+    <form action="https://idesstage2.bc.edu/class/results.php" type="post">
+        <label for="name">Name:</label>
+        <br>
+        <input type="text" id="name" name="name" value="">
+        <br>
+        <label>email</label>
+         <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email" value=""><br><br>
+          <br>
+<table>
+table {
+  border: 1px solid black;         
+<select name="Select Your Favorite Type of Music" id="Music" form="Favorite Music">
+  <form action="/action_page.php"> <br>
+
+  <input type="checkbox" id="type1" name="type1" value="Pop">
+  <label for="Type1">Pop</label><br>
+  <input type="checkbox" id="type2" name="type2" value="Classic">
+  <label for="type2"> Classic</label><br>
+  <input type="checkbox" id="type3" name="type3" value="Rock">
+  <label for="type3"> Rock</label><br>
+  <input type="checkbox" id="type4" name="type4" value="Folk">
+  <label for="type4"> Folk</label><br>
+<input type="checkbox" id="type2" name="type5" value="Rap">
+  <label for="type5"> Rap</label><br>
+<input type="checkbox" id="type6" name="type6" value="Other">
+  <label for="type2"> Other</label><br>
+</table>
+
+<h3>Select the Location You Listen to Music:</h3>
+<table>
+<select name="place" id="place" form="Place">
+  <option value="home">Home</option>
+  <option value="school">School/option>
+  <option value="work">Work</option>
+<option value="work">Car</option>
+
+</table>
+
+<label> What Role Does Music Play in Your Life</label><br>
+ <textarea name="message" rows="10" cols="30">.</textarea>
+  <br> 
+
+<input type="submit" value="Send Survey"><br>
+    </form>
+</div>
+    <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+</div>
+</body>
+</html>
