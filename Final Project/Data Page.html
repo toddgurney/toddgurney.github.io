@@ -102,16 +102,20 @@ section::after {
 <p>The optgroup tag is used to group related options in a drop-down list:</p>
 
 <form action="/https://idesstage2.bc.edu/class/results.php">
-  <label for="cars">Choose a car:</label>
-  <select name="cars" id="cars">
-    <optgroup label="Swedish Cars">
-      <option value="volvo">Volvo</option>
-      <option value="saab">Saab</option>
+  <label for="cars">Choose a Class Type:</label>
+  <select name="Class Type" id="cars">
+    <optgroup label="Passenger">
+      <option value="Class D">D</option>
+      <option value="Class M>M</option>
     </optgroup>
-    <optgroup label="German Cars">
-      <option value="mercedes">Mercedes</option>
-      <option value="audi">Audi</option>
+    <optgroup label="Commerical Vehicles">
+      <option value="Class A">A</option>
+      <option value="Class B">B</option>
+      <option value="Class C">C</option>
     </optgroup>
+    <optgroup label="Endorsements">
+     <option value="Passenger">P</option>
+     </optgroup>
   </select>
   <br><br>
   <input type="submit" value="Submit">
