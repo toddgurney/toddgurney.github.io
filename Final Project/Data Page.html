@@ -111,26 +111,22 @@ section::after {
 
 <p>Please select a License Class Type:</p>
 
-<form action="/https://idesstage2.bc.edu/class/results.php">
-  <label for="Class">Choose a Class Type:</label>
-  <select name="Class Type" id="Class">
-    <optgroup label="Passenger">
-      <option value="Class D">D</option>
-      <option value="Class M>M</option>
-    </optgroup>
-    <optgroup label="Commerical Vehicles">
-      <option value="Class A">A</option>
-      <option value="Class B">B</option>
-      <option value="Class C">C</option>
-    </optgroup>
-    <optgroup label="Endorsements">
-     <option value="Passenger">P</option>
-     <option value="School Bus">S</option> 
-      <option value="Hazmet">H</option>
-      <option value="Tanker">T</option>                         
-     </optgroup>
-  </select>
-  <br><br>
-  <input type="submit" value="Submit">
-</form>
+<div>
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+  
+    <input type="submit" value="Submit">
+  </form>
+</div>
  
